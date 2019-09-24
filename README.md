@@ -6,3 +6,5 @@ Investing in a new experience is not cheap. We fear wasting our time and money o
 Using past purchase and browsing behavior, this competition asks you to predict which coupons a customer will buy in a given period of time. The resulting models will be used to improve Ponpare's recommendation system, so they can make sure their customers don't miss out on their next favorite thing.
 
 ---
+ <img src="IMG/associate_1.jpg" width = "250" height = "250" alt="图片名称" align=center />  <img src="IMG/associate_2.jpg" width = "250" height = "250" alt="图片名称" align=center />  <img src="IMG/associate_3.jpg" width = "250" height = "250" alt="图片名称" align=center />
+ 
